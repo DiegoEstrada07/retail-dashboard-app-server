@@ -1,19 +1,136 @@
 [
   {
     "id": 1,
-    "name": "Producto A",
-    "description": "Descripción del producto A",
-    "price": 100,
+    "name": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case",
+    "description": "electronics",
+    "price": 549.00,
     "stock": 10,
     "image": "path/to/imageA.jpg",
     "reviews": []
   },
   {
     "id": 2,
-    "name": "Producto B",
-    "description": "Descripción del producto B",
-    "price": 150,
+    "name": "Samsung The Frame 85 QLED 4K TV",
+    "description": "electronics",
+    "price": 4798.00,
     "stock": 5,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "name": "Google Nest Battery Doorbell",
+    "description": "electronics",
+    "price": 196.38,
+    "stock": 100,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "name": "Athletic Works Men's Slim Fit T-Shirt",
+    "description": "clothing",
+    "price": 10.00,
+    "stock": 200,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "name": "Athletic Works Men's Mesh Short",
+    "description": "clothing",
+    "price": 10.00,
+    "stock": 200,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "name": "Athletic Works Women's T-Shirt",
+    "description": "clothing",
+    "price": 14.00,
+    "stock": 200,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "name": "Bouclair Sage Taha Decorative Pillow 19x19 in (48x48 cm)",
+    "description": "home",
+    "price": 9.99,
+    "stock": 20,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "name": "Canadian Linen Hotel White",
+    "description": "home",
+    "price": 49.97,
+    "stock": 20,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "name": "Canadian Linen Microfiber Pillow",
+    "description": "home",
+    "price": 18.39,
+    "stock": 20,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 10,
+    "name": "Ivory Bar Soap Original Scent",
+    "description": "personal-care",
+    "price": 6.73,
+    "stock": 50,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "name": "Irish Spring Original Clean",
+    "description": "personal-care",
+    "price": 6.78,
+    "stock": 50,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 12,
+    "name": "NIVEA Men Cool Kick ",
+    "description": "personal-care",
+    "price": 4.98,
+    "stock": 50,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 13,
+    "name": "LEGO Spring Festival Galloping",
+    "description": "lunar-new-year",
+    "price": 139.86,
+    "stock": 30,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 14,
+    "name": "Silvertone July Ruby Red",
+    "description": "lunar-new-year",
+    "price": 29.99,
+    "stock": 30,
+    "image": "path/to/imageB.jpg",
+    "reviews": []
+  },
+  {
+    "id": 13,
+    "name": "Chinese New Year Horse",
+    "description": "lunar-new-year",
+    "price": 2.98,
+    "stock": 30,
     "image": "path/to/imageB.jpg",
     "reviews": []
   }
